@@ -53,6 +53,33 @@ Prednášky prebiehajú v utorok v čase **11:00 – 12:40**.
 - Každý tím má povinnú účasť na **2 prednáškach podľa rozpisu tém**.
 - Rozdelenie tém medzi jednotlivé tímy je uvedené v samostatnej tabuľke.
 
+## 👥 Rozdelenie tímov a tém pre eseje / prezentácie
+
+Každý tím má počas semestra pridelené **dve témy z prednášok**, ktoré bude spracovávať v rámci svojich esejí a následných seminárnych prezentácií.
+
+> [!IMPORTANT]
+> **Povinná účasť!**  
+> Každý tím má pridelené **dve prednášky**. Účasť na oboch týchto prednáškach je **povinná pre oboch členov tímu**.
+
+Nasledujúca tabuľka určuje rozdelenie tém medzi jednotlivé tímy. **Toto rozdelenie je spoločné pre všetky cvičenia počas celého semestra a je nemenné.**
+
+Označenie `x` znamená, že daná prednáška je pridelená príslušnému tímu a zároveň ide o prednášku s **povinnou účasťou pre oboch členov tímu**.
+
+> **Dôležité:** Rozdelenie tímov a tém uvedené v tejto tabuľke platí pre všetky cvičenia. Jednotlivé priečinky cvičení môžu obsahovať doplňujúce informácie, rozdelenie tímov alebo organizačné pokyny, samotné pridelenie tém sa však nemení.
+
+| Č. tímu | Prednáška 1 | Prednáška 2 | Prednáška 3 | Prednáška 4 | Prednáška 5 | Prednáška 6 | Prednáška 7 | Prednáška 8 | Prednáška 9 | Prednáška 10 | Prednáška 11 | Prednáška 12 |
+|---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 |  | x | x |  |  |  |  |  |  |  |  |  |
+| 2 |  |  |  | x | x |  |  |  |  |  |  |  |
+| 3 |  |  |  |  |  | x | x |  |  |  |  |  |
+| 4 |  |  |  |  |  |  |  | x | x |  |  |  |
+| 5 |  |  |  |  |  |  |  |  |  | x | x |  |
+| 6 |  | x |  |  |  |  |  |  |  |  |  | x |
+| 7 |  |  | x |  |  |  |  |  |  |  | x |  |
+| 8 |  |  |  | x |  |  |  |  |  | x |  |  |
+| 9 |  |  |  |  | x |  |  |  | x |  |  |  |
+| 10 |  |  |  |  |  | x |  | x |  |  |  |  |
+
 
 ---
 
