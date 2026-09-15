@@ -143,6 +143,28 @@ Prezentáciu je potrebné nahrať:
 
 Miesto odovzdania vytvorí cvičiaci v AIS.
 
+## 📅 Harmonogram prezentácií
+
+Nasledujúca tabuľka zobrazuje harmonogram jednotlivých cvičení pre všetky tímy počas semestra.
+
+- **Cvičenie 1** – úvod, podmienky absolvovania, zadelenie do tímov, písanie abstraktov a štúdium tém
+- **Cvičenie 2** – review a hodnotenie abstraktov
+- **Cvičenia 3–12** – seminárne prezentácie a oponentské diskusie
+
+Pri prezentáciách je v zátvorke uvedené **číslo oponentského tímu**.
+
+| Č. tímu | Cvičenie 3 | Cvičenie 4 | Cvičenie 5 | Cvičenie 6 | Cvičenie 7 | Cvičenie 8 | Cvičenie 9 | Cvičenie 10 | Cvičenie 11 | Cvičenie 12 |
+|---:|---|---|---|---|---|---|---|---|---|---|
+| 1 | Prez. 1 (oponentský tím 10) | Prez. 2 (10) |  |  |  |  |  |  |  |  |
+| 2 | Prez. 1 (9) | Prez. 2 (9) |  |  |  |  |  |  |  |  |
+| 3 |  |  | Prez. 1 (1) | Prez. 2 (1) |  |  |  |  |  |  |
+| 4 |  |  | Prez. 1 (2) | Prez. 2 (2) |  |  |  |  |  |  |
+| 5 |  |  |  |  | Prez. 1 (3) | Prez. 2 (3) |  |  |  |  |
+| 6 |  |  |  |  | Prez. 1 (5) | Prez. 2 (5) |  |  |  |  |
+| 7 |  |  |  |  |  |  | Prez. 1 (4) | Prez. 2 (4) |  |  |
+| 8 |  |  |  |  |  |  | Prez. 1 (6) | Prez. 2 (6) |  |  |
+| 9 |  |  |  |  |  |  |  |  | Prez. 1 (7) | Prez. 2 (7) |
+| 10 |  |  |  |  |  |  |  |  | Prez. 1 (8) | Prez. 2 (8) |
 ---
 
 # 📊 Obsah prezentácie
