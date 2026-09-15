@@ -293,4 +293,4 @@ Termín skúšky bude určený podľa rozpisu skúšok.
 | Odovzdanie oboch esejí | **12. 12. 2026 do 23:59** |
 | Záverečná skúška | podľa rozpisu skúšok |
 
-Všetky odovzdávacie miesta v **AIS** vytvorí príslušný cvičiaci.
+Všetky miesta odovzdania v **AIS** vytvorí príslušný cvičiaci.
