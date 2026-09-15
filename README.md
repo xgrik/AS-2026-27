@@ -231,6 +231,7 @@ Eseje vychádzajú z tém pridelených jednotlivým tímom.
 Pokyny pre napísanie odborných esejí vychádzajú okrem iného z:
 
 > Hoogenboom BJ, Manske RC. *How to write a scientific article.* Int J Sports Phys Ther. 2012 Oct;7(5):512–7. PMID: 23091783; PMCID: PMC3474301.
+> https://pmc.ncbi.nlm.nih.gov/articles/PMC3474301/
 
 ---
 
