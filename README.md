@@ -8,14 +8,14 @@ Repozitár obsahuje organizačné informácie, materiály a podklady k cvičenia
 
 | Cvičenie | Dátum | Čas | Cvičiaci | Miestnosť |
 |---|---|---|---|---|
-| [Cvičenie 1]() | streda | 18:00 – 19:50 | Jakub Perdek | 1.31a |
-| [Cvičenie 2]() | streda | 18:00 – 19:50 | Adam Grík | 1.30b |
-| [Cvičenie 3]() | streda | 18:00 – 19:50 | Patrik Fejda | 1.30a |
-| [Cvičenie 4]() | štvrtok | 17:00 – 18:50 | Jakub Perdek | 1.30a |
-| [Cvičenie 5]() | štvrtok | 17:00 – 18:50 | Matus Baloga | 1.30b |
-| [Cvičenie 6]() | štvrtok | 19:00 – 20:50 | Jakub Perdek | 1.30a |
-| [Cvičenie 7]() | štvrtok | 19:00 – 20:50 | Adam Grík | 1.30b |
-| [Cvičenie 8]() | štvrtok | 19:00 – 20:50 | Patrik Fejda | 1.37 |
+| Cvičenie 1 | streda | 18:00 – 19:50 | Jakub Perdek | 1.31a |
+| Cvičenie 2 | streda | 18:00 – 19:50 | Adam Grík | 1.30b |
+| Cvičenie 3 | streda | 18:00 – 19:50 | Patrik Fejda | 1.30a |
+| Cvičenie 4 | štvrtok | 17:00 – 18:50 | Jakub Perdek | 1.30a |
+| Cvičenie 5 | štvrtok | 17:00 – 18:50 | Matus Baloga | 1.30b |
+| Cvičenie 6 | štvrtok | 19:00 – 20:50 | Jakub Perdek | 1.30a |
+| Cvičenie 7 | štvrtok | 19:00 – 20:50 | Adam Grík | 1.30b |
+| Cvičenie 8 | štvrtok | 19:00 – 20:50 | Patrik Fejda | 1.37 |
 
 # 🎯 Cieľ predmetu
 
